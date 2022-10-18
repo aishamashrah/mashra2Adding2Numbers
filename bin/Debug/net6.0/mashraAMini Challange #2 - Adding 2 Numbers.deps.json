@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "mashraAMini Challange #2 - Adding 2 Numbers/1.0.0": {
+        "runtime": {
+          "mashraAMini Challange #2 - Adding 2 Numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mashraAMini Challange #2 - Adding 2 Numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

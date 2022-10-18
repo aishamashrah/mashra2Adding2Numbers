@@ -1,0 +1,15 @@
+/Users/aishamashrah/Desktop/mashraAMini Challange #2 - Adding 2 Numbers/bin/Debug/net6.0/mashraAMini Challange #2 - Adding 2 Numbers
+/Users/aishamashrah/Desktop/mashraAMini Challange #2 - Adding 2 Numbers/bin/Debug/net6.0/mashraAMini Challange #2 - Adding 2 Numbers.deps.json
+/Users/aishamashrah/Desktop/mashraAMini Challange #2 - Adding 2 Numbers/bin/Debug/net6.0/mashraAMini Challange #2 - Adding 2 Numbers.runtimeconfig.json
+/Users/aishamashrah/Desktop/mashraAMini Challange #2 - Adding 2 Numbers/bin/Debug/net6.0/mashraAMini Challange #2 - Adding 2 Numbers.dll
+/Users/aishamashrah/Desktop/mashraAMini Challange #2 - Adding 2 Numbers/bin/Debug/net6.0/mashraAMini Challange #2 - Adding 2 Numbers.pdb
+/Users/aishamashrah/Desktop/mashraAMini Challange #2 - Adding 2 Numbers/obj/Debug/net6.0/mashraAMini Challange #2 - Adding 2 Numbers.csproj.AssemblyReference.cache
+/Users/aishamashrah/Desktop/mashraAMini Challange #2 - Adding 2 Numbers/obj/Debug/net6.0/mashraAMini Challange #2 - Adding 2 Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aishamashrah/Desktop/mashraAMini Challange #2 - Adding 2 Numbers/obj/Debug/net6.0/mashraAMini Challange #2 - Adding 2 Numbers.AssemblyInfoInputs.cache
+/Users/aishamashrah/Desktop/mashraAMini Challange #2 - Adding 2 Numbers/obj/Debug/net6.0/mashraAMini Challange #2 - Adding 2 Numbers.AssemblyInfo.cs
+/Users/aishamashrah/Desktop/mashraAMini Challange #2 - Adding 2 Numbers/obj/Debug/net6.0/mashraAMini Challange #2 - Adding 2 Numbers.csproj.CoreCompileInputs.cache
+/Users/aishamashrah/Desktop/mashraAMini Challange #2 - Adding 2 Numbers/obj/Debug/net6.0/mashraAMini Challange #2 - Adding 2 Numbers.dll
+/Users/aishamashrah/Desktop/mashraAMini Challange #2 - Adding 2 Numbers/obj/Debug/net6.0/refint/mashraAMini Challange #2 - Adding 2 Numbers.dll
+/Users/aishamashrah/Desktop/mashraAMini Challange #2 - Adding 2 Numbers/obj/Debug/net6.0/mashraAMini Challange #2 - Adding 2 Numbers.pdb
+/Users/aishamashrah/Desktop/mashraAMini Challange #2 - Adding 2 Numbers/obj/Debug/net6.0/mashraAMini Challange #2 - Adding 2 Numbers.genruntimeconfig.cache
+/Users/aishamashrah/Desktop/mashraAMini Challange #2 - Adding 2 Numbers/obj/Debug/net6.0/ref/mashraAMini Challange #2 - Adding 2 Numbers.dll
