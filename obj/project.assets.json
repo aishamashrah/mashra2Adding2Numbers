@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/aishamashrah/.nuget/packages/": {}
+    "/Users/andy/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aishamashrah/Desktop/mashraAMini Challange #2 - Adding 2 Numbers/mashraAMini Challange #2 - Adding 2 Numbers.csproj",
+      "projectUniqueName": "/Users/andy/CodeStack 22-23/lvl 1/Gitrespostory/mashraAMini-Challange--2---Adding-2-Numbers/mashraAMini Challange #2 - Adding 2 Numbers.csproj",
       "projectName": "mashraAMini Challange #2 - Adding 2 Numbers",
-      "projectPath": "/Users/aishamashrah/Desktop/mashraAMini Challange #2 - Adding 2 Numbers/mashraAMini Challange #2 - Adding 2 Numbers.csproj",
-      "packagesPath": "/Users/aishamashrah/.nuget/packages/",
-      "outputPath": "/Users/aishamashrah/Desktop/mashraAMini Challange #2 - Adding 2 Numbers/obj/",
+      "projectPath": "/Users/andy/CodeStack 22-23/lvl 1/Gitrespostory/mashraAMini-Challange--2---Adding-2-Numbers/mashraAMini Challange #2 - Adding 2 Numbers.csproj",
+      "packagesPath": "/Users/andy/.nuget/packages/",
+      "outputPath": "/Users/andy/CodeStack 22-23/lvl 1/Gitrespostory/mashraAMini-Challange--2---Adding-2-Numbers/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/aishamashrah/.nuget/NuGet/NuGet.Config"
+        "/Users/andy/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

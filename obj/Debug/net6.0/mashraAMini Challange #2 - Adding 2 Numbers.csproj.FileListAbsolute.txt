@@ -13,3 +13,18 @@
 /Users/aishamashrah/Desktop/mashraAMini Challange #2 - Adding 2 Numbers/obj/Debug/net6.0/mashraAMini Challange #2 - Adding 2 Numbers.pdb
 /Users/aishamashrah/Desktop/mashraAMini Challange #2 - Adding 2 Numbers/obj/Debug/net6.0/mashraAMini Challange #2 - Adding 2 Numbers.genruntimeconfig.cache
 /Users/aishamashrah/Desktop/mashraAMini Challange #2 - Adding 2 Numbers/obj/Debug/net6.0/ref/mashraAMini Challange #2 - Adding 2 Numbers.dll
+/Users/andy/CodeStack 22-23/lvl 1/Gitrespostory/mashraAMini-Challange--2---Adding-2-Numbers/bin/Debug/net6.0/mashraAMini Challange #2 - Adding 2 Numbers
+/Users/andy/CodeStack 22-23/lvl 1/Gitrespostory/mashraAMini-Challange--2---Adding-2-Numbers/bin/Debug/net6.0/mashraAMini Challange #2 - Adding 2 Numbers.deps.json
+/Users/andy/CodeStack 22-23/lvl 1/Gitrespostory/mashraAMini-Challange--2---Adding-2-Numbers/bin/Debug/net6.0/mashraAMini Challange #2 - Adding 2 Numbers.runtimeconfig.json
+/Users/andy/CodeStack 22-23/lvl 1/Gitrespostory/mashraAMini-Challange--2---Adding-2-Numbers/bin/Debug/net6.0/mashraAMini Challange #2 - Adding 2 Numbers.dll
+/Users/andy/CodeStack 22-23/lvl 1/Gitrespostory/mashraAMini-Challange--2---Adding-2-Numbers/bin/Debug/net6.0/mashraAMini Challange #2 - Adding 2 Numbers.pdb
+/Users/andy/CodeStack 22-23/lvl 1/Gitrespostory/mashraAMini-Challange--2---Adding-2-Numbers/obj/Debug/net6.0/mashraAMini Challange #2 - Adding 2 Numbers.csproj.AssemblyReference.cache
+/Users/andy/CodeStack 22-23/lvl 1/Gitrespostory/mashraAMini-Challange--2---Adding-2-Numbers/obj/Debug/net6.0/mashraAMini Challange #2 - Adding 2 Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andy/CodeStack 22-23/lvl 1/Gitrespostory/mashraAMini-Challange--2---Adding-2-Numbers/obj/Debug/net6.0/mashraAMini Challange #2 - Adding 2 Numbers.AssemblyInfoInputs.cache
+/Users/andy/CodeStack 22-23/lvl 1/Gitrespostory/mashraAMini-Challange--2---Adding-2-Numbers/obj/Debug/net6.0/mashraAMini Challange #2 - Adding 2 Numbers.AssemblyInfo.cs
+/Users/andy/CodeStack 22-23/lvl 1/Gitrespostory/mashraAMini-Challange--2---Adding-2-Numbers/obj/Debug/net6.0/mashraAMini Challange #2 - Adding 2 Numbers.csproj.CoreCompileInputs.cache
+/Users/andy/CodeStack 22-23/lvl 1/Gitrespostory/mashraAMini-Challange--2---Adding-2-Numbers/obj/Debug/net6.0/mashraAMini Challange #2 - Adding 2 Numbers.dll
+/Users/andy/CodeStack 22-23/lvl 1/Gitrespostory/mashraAMini-Challange--2---Adding-2-Numbers/obj/Debug/net6.0/refint/mashraAMini Challange #2 - Adding 2 Numbers.dll
+/Users/andy/CodeStack 22-23/lvl 1/Gitrespostory/mashraAMini-Challange--2---Adding-2-Numbers/obj/Debug/net6.0/mashraAMini Challange #2 - Adding 2 Numbers.pdb
+/Users/andy/CodeStack 22-23/lvl 1/Gitrespostory/mashraAMini-Challange--2---Adding-2-Numbers/obj/Debug/net6.0/mashraAMini Challange #2 - Adding 2 Numbers.genruntimeconfig.cache
+/Users/andy/CodeStack 22-23/lvl 1/Gitrespostory/mashraAMini-Challange--2---Adding-2-Numbers/obj/Debug/net6.0/ref/mashraAMini Challange #2 - Adding 2 Numbers.dll
